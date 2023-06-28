@@ -1,0 +1,44 @@
+/* ============================================================================================= */
+/* ========================= Responsive CSS ============================= */
+
+
+@media only screen and (max-width: 820px) {
+    label #sidebar_btn {
+        left: 222px;
+        margin: -48px 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .arrow-icon {
+        float: right;
+        margin: 15px 45px 0 45px !important;
+    }
+    .login-box {
+        padding: 40px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .nav-right_area a {
+        display: none;
+    }
+
+    .footer-content {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .user-head a {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 10px;
+    }
+}
+@media only screen and (max-width: 320px) {
+.login-box {
+    padding: 15px;
+    border-radius: 20px;
+}
+}

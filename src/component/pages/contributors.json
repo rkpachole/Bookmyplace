@@ -1,0 +1,19 @@
+{
+    "Login Frequency": 47.59,
+    "Daily Usage": 11.34,
+    "No of Integration": 1.8,
+    "No of account": 32.36,
+    "Average Resolution Time": 18.51,
+    "Type Of Integration": {
+        "Integration 1": 8.62,
+        "Integration 2": 15.21,
+        "Integration 3": 21.76,
+        "Integration 4": 8.09
+    },
+    "Features": {
+        "Feature 1": 35.64,
+        "Feature 2": 34.23,
+        "Feature 3": 30.87,
+        "Feature 4": 6.93
+    }
+}

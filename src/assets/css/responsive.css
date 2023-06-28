@@ -1,0 +1,16 @@
+@media only screen and (max-width: 912px) {
+    .mainForm-bg {
+        min-height: 60vh;
+    }
+    .mainForm-content {
+        padding: 60px;
+    }
+}
+@media only screen and (max-width: 912px) {
+
+}
+@media only screen and (max-width: 414px) {
+    .mainForm-text p {
+        font-size: 20px;
+    }
+}
